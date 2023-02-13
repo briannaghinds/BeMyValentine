@@ -1,2 +1,3 @@
 # BeMyValentine
-Want to ask that one person to be your Valentine? Scared they will say no? Fear not! I have you covered.
+Valentine's Day is upon us. And you really want to ask that one person. I know you do. But you are scared they will say no aren't you. 
+Well fear not, I made you a website that asks the question for you. And (I believe) it will ENSURE a yes from your special someone.
