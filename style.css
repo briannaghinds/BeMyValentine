@@ -1,0 +1,68 @@
+/* TO-DO:
+fix the positioning of the title, pickup line, and buttons
+check this through inspect tool  */
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: #ffc8dd;
+    margin-top: 100px;
+    margin: 100px;
+}
+
+/* .container{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+} */
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    margin: 30px;
+}
+
+.yesButton{
+    background-color: #ffafcc;
+    width: 200px;
+    height: 100px;
+    border: none;
+    border-radius: 15px;
+    position: absolute;
+    transform: translate(-25%, -25%);
+    top: 70%;
+    left: 25%;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.noButton{
+    background-color: #ffafcc;
+    border: none;
+    border-radius: 15px;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    left: 60%; /*x*/
+    top: 70%;  /*y*/
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+
+}
